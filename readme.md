@@ -10,4 +10,4 @@
 ### UI
 * Semantic UI
 
-## [Restful Routes](./RESTful Routes Chart.html)
+## [Restful Routes](../RESTful Routes Chart.html)
