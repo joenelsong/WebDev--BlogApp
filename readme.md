@@ -10,4 +10,4 @@
 ### UI
 * Semantic UI
 
-## [Restful Routes](../RESTful Routes Chart.html)
+## [Restful Routes]("https://github.com/joenelsong/WebDev--BlogApp/blob/master/RESTful%20Routes%20Chart.html")
