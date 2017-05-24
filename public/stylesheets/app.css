@@ -1,0 +1,37 @@
+body {
+  background-color: #aaa;
+}
+
+i.icon {
+  font-size: 2em;
+  }
+
+.container.main {
+  margin-top: 7.0em;
+}
+
+/*#new-blog-submit-btn {*/
+/*  box-shadow: #20C20E;*/
+/*  color: #20C20E;*/
+/*}*/
+
+/*#new-blog-submit-btn:hover {*/
+/*  box-shadow: #20C20E;*/
+/*  background: #20C20E;*/
+/*  color: #fff;*/
+/*}*/
+
+/*#new-blog-submit-btn:active {*/
+/*  box-shadow: #20C20E;*/
+/*  background: #20C20E;*/
+/*  color: #fff;*/
+/*}*/
+
+.container img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+#delete {
+  display: inline;
+}

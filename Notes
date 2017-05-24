@@ -1,0 +1,9 @@
+7 Restful Routes
+ (HTML Forms do not support Put Requests, only GET and POST
+can use method-override library as a workaround, to do this put ?_method=PUT at the end of post request.)
+
+Sanitized Inputs that allow HTML in blog posts using Express Sanitizer. -- removes all scripts from html
+
+Semantic UI
+
+MongoDB/Mongoose
